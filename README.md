@@ -1,3 +1,27 @@
+---
+
+# Support / 技术支持
+
+
+# How to Use / 使用方法
+1. Launch Colonybeings from Applications / 从应用程序启动
+2. Grant camera permission when prompted / 允许摄像头权限  
+3. Your desktop pet will appear and follow your gaze / 桌面宠物会出现并跟随你的视线
+
+# Common Issues / 常见问题
+
+**Q: Can't see the pet / 看不到宠物**  
+A: Check System Preferences → Security & Privacy → Camera  
+A: 检查"系统偏好设置 → 安全性与隐私 → 摄像头"权限
+
+**Q: How to quit? / 如何退出？**  
+A: Right-click the pet or use Cmd+Q / 右键点击或按Cmd+Q
+
+**Q: System Requirements / 系统要求**  
+A: macOS 11.0+, Camera required / 需要macOS 11.0+和摄像头
+
+
+
 ### Colonybeings-privacy
 
 ---
