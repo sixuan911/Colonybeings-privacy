@@ -1,14 +1,14 @@
----
+
 
 # Support / 技术支持
+---
 
-
-# How to Use / 使用方法
+### How to Use / 使用方法
 1. Launch Colonybeings from Applications / 从应用程序启动
 2. Grant camera permission when prompted / 允许摄像头权限  
 3. Your desktop pet will appear and follow your gaze / 桌面宠物会出现并跟随你的视线
 
-# Common Issues / 常见问题
+### Common Issues / 常见问题
 
 **Q: Can't see the pet / 看不到宠物**  
 A: Check System Preferences → Security & Privacy → Camera  
@@ -22,11 +22,13 @@ A: macOS 11.0+, Camera required / 需要macOS 11.0+和摄像头
 
 
 
-### Colonybeings-privacy
+
+
+# Colonybeings-privacy /隐私政策信息
 
 ---
 
-# Colonybeings
+## Colonybeings
 
 A macOS desktop posture reminder application.
 
@@ -34,13 +36,13 @@ A macOS desktop posture reminder application.
 
 
 
-## Privacy Policy / 隐私政策
+### Privacy Policy / 隐私政策
 
 _Last updated: February 2026_
 
 
 
-## 1. Overview / 概述
+### 1. Overview / 概述
 
 **Colonybeings** is a macOS desktop application designed to provide posture awareness and visual feedback by analyzing camera input in real time.
 
@@ -48,7 +50,7 @@ _Last updated: February 2026_
 
 
 
-## 2. Face Data Collection / 人脸数据收集说明
+### 2. Face Data Collection / 人脸数据收集说明
 
 **Colonybeings does not collect, store, transmit, or share any face data.**
 
@@ -65,7 +67,7 @@ The app does **not** generate or store facial templates, face embeddings, or any
 
 
 
-## 3. How Camera Data Is Used / 摄像头数据如何使用
+### 3. How Camera Data Is Used / 摄像头数据如何使用
 
 The app uses the device camera **only for real-time, on-device visual analysis** to estimate posture-related indicators (such as relative head position or orientation).
 
@@ -85,7 +87,7 @@ The app uses the device camera **only for real-time, on-device visual analysis**
 
 
 
-## 4. Data Sharing / 数据共享
+### 4. Data Sharing / 数据共享
 
 **Colonybeings does not share any data with third parties.**
 
@@ -99,7 +101,7 @@ The app does not integrate advertising SDKs, analytics SDKs, or third-party clou
 
 
 
-## 5. Data Storage and Retention / 数据存储与保留
+### 5. Data Storage and Retention / 数据存储与保留
 
 Since the app does not store face data or camera data, **there is no data retention period**.
 
@@ -112,7 +114,7 @@ All camera data is discarded immediately after real-time processing.
 
 
 
-## 6. User Control / 用户控制权
+### 6. User Control / 用户控制权
 
 Camera access is requested only when the app is running.
 
@@ -125,7 +127,7 @@ Users can revoke camera permissions at any time through macOS System Settings.
 
 
 
-## 7. Third-Party Libraries / 第三方库说明
+### 7. Third-Party Libraries / 第三方库说明
 
 Colonybeings may use open-source libraries for local, on-device processing.
 
@@ -138,7 +140,7 @@ Colonybeings 可能使用开源第三方库进行本地计算。
 
 
 
-## 8. Contact / 联系方式
+### 8. Contact / 联系方式
 
 If you have any questions regarding this privacy policy, please contact:
 
